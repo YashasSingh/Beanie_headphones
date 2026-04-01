@@ -36,11 +36,12 @@ The transducers are positioned at the temples to vibrate against the skull, tran
 |470µF 35V Electrolytic Cap    |1   |$0.1710    |$0.86      |[LCSC](https://www.lcsc.com/product-detail/C88732.html)|
 |USB-C Connector               |1   |$0.1829    |$0.91      |[LCSC](https://www.lcsc.com/product-detail/C165948.html)|
 |Bone Conduction Transducers   |2   |$8.95      |$17.90     |[Alibaba](https://www.alibaba.com/)|
-|3.7V Lipo Battery             |1   |TBD        |TBD        |[Alibaba](https://www.alibaba.com/product-detail/3-7v-Lipo-Li-Ion-Battery_62343732082.html)|
+|3.7V Lipo Battery             |1   |$4.50      |$4.50      |[Alibaba](https://www.alibaba.com/product-detail/3-7v-Lipo-Li-Ion-Battery_62343732082.html)|
 |Bone Transducers Shipping     |1   |-          |$5.80      |Alibaba Shipping|
 |Shipping & Handling Fee       |1   |-          |$12.01     |LCSC Components|
+|PCB + Shipping                |1   |$5.22      |$5.22      |[JLCPCB](https://www.jlcpcb.com)|
 
-**Estimated Total: ~$45.50 USD + Battery Cost**
+**Estimated Total: $55.22 USD**
 
 ## Hardware Assembly
 
