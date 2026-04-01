@@ -35,13 +35,16 @@ The transducers are positioned at the temples to vibrate against the skull, tran
 |PAM8403 Audio Amplifier       |1   |$0.2669    |$1.33      |[LCSC](https://www.lcsc.com/product-detail/C5122557.html)|
 |470µF 35V Electrolytic Cap    |1   |$0.1710    |$0.86      |[LCSC](https://www.lcsc.com/product-detail/C88732.html)|
 |USB-C Connector               |1   |$0.1829    |$0.91      |[LCSC](https://www.lcsc.com/product-detail/C165948.html)|
+|Slide Switch                   |1   |$0.1215    |$0.61      |[LCSC](https://www.lcsc.com/product-detail/C963206.html)|
+|Navigation Switch Joystick     |1   |$0.4102    |$0.41      |[LCSC](https://www.lcsc.com/product-detail/C3019724.html)|
+|Tactile Switch                 |1   |$0.0374    |$1.50      |[LCSC](https://www.lcsc.com/product-detail/C6575016.html)|
 |Bone Conduction Transducers   |2   |$8.95      |$17.90     |[Alibaba](https://www.alibaba.com/)|
 |3.7V Lipo Battery             |1   |$4.50      |$4.50      |[Alibaba](https://www.alibaba.com/product-detail/3-7v-Lipo-Li-Ion-Battery_62343732082.html)|
 |Bone Transducers Shipping     |1   |-          |$5.80      |Alibaba Shipping|
 |Shipping & Handling Fee       |1   |-          |$12.01     |LCSC Components|
 |PCB + Shipping                |1   |$5.22      |$5.22      |[JLCPCB](https://www.jlcpcb.com)|
 
-**Estimated Total: $55.22 USD**
+**Estimated Total: $57.74 USD**
 
 ## Hardware Assembly
 

@@ -21,4 +21,7 @@ C165948,韩国韩荣,TYPE-C-31-M-12,,USB-C_SMD-TYPE-C-31-M-12,,-,1,,,TYPE-C-31-M
 ,Generic,,3.7V Lipo Battery,,-,1,1,,,Battery,Generic,1,4.50,4.50,,,1,1,1,In Stock,,3.7V Lipo Li-Ion Rechargeable Battery,Alibaba,https://www.alibaba.com/product-detail/3-7v-Lipo-Li-Ion-Battery_62343732082.html?spm=a2700.prosearch.normal_offer.d_title.126767affFXnLx&priceId=a254162a2fac41fda798f609a68272bf
 ,Generic,,Shipping & Handling Fee,,-,1,1,,,Fee,Generic,1,12.01,12.01,,,1,1,1,In Stock,,LCSC Shipping & Handling,LCSC,https://www.lcsc.com
 ,Generic,,PCB + Shipping,,-,1,1,,,PCB,Generic,1,5.22,5.22,,,1,1,1,In Stock,,Custom PCB & Shipping,JLCPCB,https://www.jlcpcb.com
-,,,TOTAL COST,,-,,,55.22,,,,,,,,,,,,,,,ESTIMATED TOTAL PROJECT COST,,
+C963206,G-Switch,MK-12C02-G020,,SMD,,-,1,1,,,MK-12C02-G020,G-Switch,5,0.1215,0.61,C963206,SMD,5,5,5,1180,In Stock,,Slide Switch SPDT 1A @ 6V Surface Mount,Exact Matches,https://www.lcsc.com/product-detail/C963206.html
+C3019724,G-Switch,GT-TC006D-H060-L1,,SMD-8P,,-,1,1,,,GT-TC006D-H060-L1,G-Switch,1,0.4102,0.41,C3019724,SMD-8P,1,1,1,150,In Stock,,Navigation Switches Joystick,Exact Matches,https://www.lcsc.com/product-detail/C3019724.html
+C6575016,HCTL,TC-6615-9.0-160G,,Through Hole,,-,1,1,,,TC-6615-9.0-160G,HCTL,40,0.0374,1.50,C6575016,Through Hole,20,20,40,1500,In Stock,,Tactile Switch SPST 160gf 9mm,Exact Matches,https://www.lcsc.com/product-detail/C6575016.html
+,,,TOTAL COST,,-,,,57.74,,,,,,,,,,,,,,,ESTIMATED TOTAL PROJECT COST,,
