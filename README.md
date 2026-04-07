@@ -1,10 +1,10 @@
 # Beanie Headphones - Bone Conduction Audio System
 A DIY bone conduction headphone system integrated into a beanie using CSR8646 Bluetooth audio SoC and a compact amplifier. Listen to music and calls while keeping your ears free and staying warm!
-![alt text](<Screenshot 2026-04-06 183842.png>)
-![alt text](image-2.png)
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-3.png)
+![alt text](<imgs/Screenshot 2026-04-06 183842.png>)
+![alt text](imgs/image-2.png)
+![alt text](imgs/image.png)
+![alt text](imgs/image-1.png)
+![alt text](imgs/image-3.png)
 ## Overview
 Beanie Headphones are wireless bone conduction headphones that stay snugly inside your beanie. The system uses Bluetooth connectivity via the CSR8646 chip to stream audio wirelessly, which is then amplified and delivered through bone conduction transducers embedded in the beanie fabric.
 
