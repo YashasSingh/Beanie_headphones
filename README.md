@@ -1,5 +1,7 @@
 # Beanie Headphones - Bone Conduction Audio System
 A DIY bone conduction headphone system integrated into a beanie using CSR8646 Bluetooth audio SoC and a compact amplifier. Listen to music and calls while keeping your ears free and staying warm!
+![alt text](<Screenshot 2026-04-06 183842.png>)
+![alt text](image-2.png)
 ![alt text](image.png)
 ![alt text](image-1.png)
 ## Overview
@@ -24,7 +26,7 @@ The transducers are positioned at the temples to vibrate against the skull, tran
 
 ## Bill of Materials
 
-**View the complete BOM:** [export_project_20260401_113324.csv](export_project_20260401_113324.csv)
+**View the complete BOM:** [totalbom.csv](totalbom.csv)
 
 |Item                          |Qty.|Unit Price|Ext. Price|Link                                              |
 |------------------------------|----|-----------|-----------|----------------------------------------------------|
